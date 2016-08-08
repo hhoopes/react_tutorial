@@ -13,5 +13,40 @@
         "id": 1470070835039,
         "author": "Heidi",
         "text": "test"
+    },
+    {
+        "id": 1,
+        "author": "Bob's your uncle",
+        "text": "he likes React too"
+    },
+    {
+        "id": 13,
+        "author": "Marvin the PA",
+        "text": "You all hate me"
+    },
+    {
+        "id": 1470621208342,
+        "author": "afsdf",
+        "text": "dafsdf"
+    },
+    {
+        "id": 1470621316736,
+        "author": "blurg",
+        "text": "blurg"
+    },
+    {
+        "id": 1470621401557,
+        "author": "dog",
+        "text": "cat"
+    },
+    {
+        "id": 1470621414047,
+        "author": "cat",
+        "text": "dog"
+    },
+    {
+        "id": 1470621424076,
+        "author": "cat",
+        "text": "dddd"
     }
 ]
