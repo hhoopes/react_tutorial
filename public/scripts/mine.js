@@ -15,6 +15,10 @@ var CommentBox = React.createClass({
     });
   },
   handleCommentSubmit: function(comment) {
+    var comments = this.state.data;
+    comment.id = Date.now();
+    var newComments = comments.concat([comment]);
+    this.setState({data: newComments});
     $.ajax({
       url: this.props.url,
       dataType: 'json',
